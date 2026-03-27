@@ -1,5 +1,10 @@
 # NFC/BLE Proximity Tracker for Flipper Zero
 
+![Status](https://img.shields.io/badge/status-in%20development-orange)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Platform](https://img.shields.io/badge/platform-Flipper%20Zero-orange)
+![Language](https://img.shields.io/badge/language-C-blue)
+
 A sophisticated device tracking application for the Flipper Zero that passively logs NFC and BLE devices in proximity, complete with device classification, signal strength tracking, and data export capabilities.
 
 ## Features
