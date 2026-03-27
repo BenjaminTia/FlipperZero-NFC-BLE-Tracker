@@ -1,0 +1,9 @@
+App(
+    appid="nfc_ble_tracker",
+    name="NFC/BLE Tracker",
+    apptype="Fap",
+    icon="Tracking",
+    entry_point="nfc_ble_tracker_app",
+    cdefines=["APP_NFC_BLE_TRACKER"],
+    requires=["gui", "storage", "notification"],
+)
