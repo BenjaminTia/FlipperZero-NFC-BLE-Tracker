@@ -1,0 +1,20 @@
+# Flipper Zero build artifacts
+*.o
+*.elf
+*.map
+*.impsyms
+
+# Build output directories
+build/
+dist/
+
+# ufbt build directory
+.ufbt/
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
